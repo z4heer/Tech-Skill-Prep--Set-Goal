@@ -1,0 +1,18 @@
+    .category-nav {
+      display: flex;
+      border-bottom: 3px solid #e0e4ea;
+      background: #2b3a55;
+      padding: 0 0 0 8px;
+      border-radius: 8px 8px 0 0;
+      overflow-x: auto;
+    }
+    .category-nav button {
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 0.80rem; /* reduced by 20% */
+      padding: 18px 32px 14px 32px;
+      cursor: pointer;
+      transition: background 0.18s, color 0.18s;
+      border-bottom: 3px solid transparent;
+    }
