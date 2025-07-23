@@ -1,7 +1,3 @@
-Here’s a **brief explanation of the architecture and frameworks** for each of the 5 major tech topics, along with **simple diagrams** in markdown-style code that you can use in docs or tools like PlantUML, Mermaid, or draw\.io later.
-
----
-
 ## ✅ 1. **Java & Spring Boot**
 
 ### 🔧 **Frameworks**
